@@ -1,0 +1,10 @@
+numpy
+pandas
+langchain-groq
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+streamlit
+ipykernel
+-e .
